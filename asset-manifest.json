@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/travel-list/static/css/main.e0a112e8.css",
+    "main.js": "/travel-list/static/js/main.46fca4ff.js",
+    "index.html": "/travel-list/index.html",
+    "main.e0a112e8.css.map": "/travel-list/static/css/main.e0a112e8.css.map",
+    "main.46fca4ff.js.map": "/travel-list/static/js/main.46fca4ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0a112e8.css",
+    "static/js/main.46fca4ff.js"
+  ]
+}
